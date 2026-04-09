@@ -16,7 +16,7 @@
 **ORCID**: [0000-0003-2540-2199](https://orcid.org/0000-0003-2540-2199)
 
 If you utilize `beltopkit` in your research, please cite the associated preprint/publication:
-- Y. Wang. A Unified Topological Framework for Representation and Construction of Generalized Carbon Nanobelts *ChemRxiv* **2026**, preprint: [DOI:10.26434/chemrxiv.15001591/v1](https://doi.org/10.26434/chemrxiv.15001591/v1)
+- Y. Wang. A Unified Topological Framework for Representation and Construction of Generalized Carbon Nanobelts. *ChemRxiv* **2026**, preprint: [DOI:10.26434/chemrxiv.15001591/v1](https://doi.org/10.26434/chemrxiv.15001591/v1)
 
 -----
 
